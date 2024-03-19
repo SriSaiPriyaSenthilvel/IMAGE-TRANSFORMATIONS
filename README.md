@@ -36,6 +36,7 @@ Rotate the image using angle function.
 ```python
 Developed By: SRI SAI PRIYA.S
 Register Number: 212222240103
+```
 i)Image Translation
 ```
 import numpy as np
@@ -139,7 +140,7 @@ rows,cols,dim = org_image.shape
 cropped_img=org_image[80:900,80:500]
 plt.imshow(cropped_img)
 plt.show()
-```
+
 ```
 ## Output:
 ### i)Image Translation
